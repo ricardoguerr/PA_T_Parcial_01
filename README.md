@@ -18,6 +18,7 @@
 
 - A continuación encontrará los enunciados de cada uno de los ejercicios. Su nota en cada uno de los ejercicios será la relación entre la cantidad de pruebas que sí pasen sobre la cantidad total de pruebas para ese ejercicio.
 - Puede hacer `git push` de sus commits tantas veces como quiera, pero no se calificará ningún commit hecho después del horario de curso.
+- Si el código original de un ejercicio no se modifica o la intención de su resolución no es clara, la nota del ejercicicio será de 0 puntos aún si hay pruebas que sí pasen para dicho ejercicio.
 
 ## Ejercicio 1 (30 puntos)
 
