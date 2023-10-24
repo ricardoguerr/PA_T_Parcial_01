@@ -5,8 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "José Ricardo Guerra Morales 1234123 - Mauricio Enrique Cabrera Giron 1073323\n";
 }
+
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
